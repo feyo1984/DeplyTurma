@@ -1,0 +1,34 @@
+[server]
+
+# List of folders that should not be watched for changes.
+# Relative paths will be taken as relative to the current working directory.
+# Example: ['/home/user1/env', 'relative/path/to/folder']
+
+
+# Max size, in megabytes, for files uploaded with the file_uploader.
+# Default: 1024
+maxUploadSize = 1024
+
+# Max size, in megabytes, of messages that can be sent via the WebSocket
+# connection.
+# Default: 1024
+maxMessageSize = 1024
+
+[theme]
+
+
+
+# Primary accent color for interactive elements.
+primaryColor = "#E2E4D7"
+
+# Background color for the main content area.
+backgroundColor = "#AFA5B6"
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "6078D8"
+
+# Color used for almost all text.
+textColor = "040711"
+
+
+
